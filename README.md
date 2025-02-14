@@ -24,6 +24,5 @@ For my Capstone project, I created a wedding website where guests can upload pho
 ---
 
 ## Get in Touch
-- 🌐 [Portfolio](https://angeliqueshek.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/angeliqueshek/)
 - 📧 [Email Me](mailto:angeliqueshek@gmail.com)
